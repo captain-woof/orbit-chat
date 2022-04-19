@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^6",
+    "ipfs": "^0.62.2",
+    "ipfs-core": "^0.14.2",
     "next": "12.1.5",
+    "orbit-db": "^0.28.3",
+    "randomstring": "^1.2.2",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
   "devDependencies": {
     "@types/node": "17.0.24",
+    "@types/randomstring": "^1.1.8",
     "@types/react": "18.0.5",
     "@types/react-dom": "18.0.1",
     "eslint": "8.13.0",
